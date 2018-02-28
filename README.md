@@ -1,4 +1,4 @@
 # Tic Tac Toe
 ## Overview
-This is a simple game of tic tac toe written in ![Rust](https://rust-lang.org).  It's all done in the terminal with simple I/O for interfacing.
+This is a simple game of tic tac toe written in [Rust](https://rust-lang.org).  It's all done in the terminal with simple I/O for interfacing.
 
